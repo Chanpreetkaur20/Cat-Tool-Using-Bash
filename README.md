@@ -4,8 +4,10 @@ This project provides a simple Bash script that utilizes the cat command to disp
 ## Installation
 To use this script, simply clone the repository and run the cat_tool.sh script with the desired options.
 
-git clone https://github.com/yourusername/cat-tool.git
+git clone [https://github.com/yourusername/cat-tool.git](https://github.com/Chanpreetkaur20/Cat-Tool-Using-Bash.git)
+
 cd cat-tool
+
 chmod +x cat_tool.sh
 
 ## Features
