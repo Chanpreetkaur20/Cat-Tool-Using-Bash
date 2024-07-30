@@ -10,14 +10,6 @@ cd cat-tool
 
 chmod +x cat_tool.sh
 
-## Features
-Display File Contents: View the contents of a specified file.
-Concatenate Files: Combine multiple files into one.
-Display Line Numbers: Show line numbers for each line in the output.
-Suppress Repeated Empty Lines: Remove multiple adjacent empty lines.
-Show Non-Printing Characters: Display non-printing characters in a visible format.
-Display End of Line Markers: Show a $ at the end of each line.
-
 ## Usage
 
 ### Basic Command:
